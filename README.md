@@ -74,7 +74,6 @@ Web application
 
 ## Contact
 
-[![Email (Personal)](yjkim031026@gmail.com)]
-[![Email (University)](cpyj126@kangnam.ac.kr)]
-[![LinkedIn](www.linkedin.com/in/yujin-kim-ksk890428)]
-
+[![Email (Personal)](https://img.shields.io/badge/Email%20(Personal)-yujin.dev@example.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:yjkim031026@gmail.com)
+[![Email (University)](https://img.shields.io/badge/Email%20(University)-yujin.kim@kangnam.ac.kr-blue?style=flat&logo=gmail&logoColor=white)](mailto:cpyj126@kangnam.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/yujin-kim-ksk890428)
