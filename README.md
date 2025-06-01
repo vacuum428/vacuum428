@@ -28,7 +28,7 @@ Web application
 ## Awards
 
 **Excellent Paper Award**, 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)  
-  → [View related publication](#development-of-a-public-infrastructure-geospatial-information-platform-based-on-big-data)
+  → [View related publication](#2024-fall-conference,-the-society-of-convergence-Knowledge (융복합지식학회))
 
 ---
 
