@@ -73,6 +73,7 @@ Web application
 <details>
 <summary><strong>Development of a Public Infrastructure Spatial Information Platform based on Big Data</strong></summary>
 <a name="development-of-a-public-infrastructure-spatial-information-platform-based-on-big-data"></a>
+  
 - 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)
 - Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University), Joo Kil Hong(Gyeongin National University of Education)
 - November 15, 2024
@@ -81,6 +82,7 @@ Web application
 
 <details>
 <summary><strong>Beacon-Based System Design for Enhancing Visitor Experience in Indoor Exhibitions</strong></summary>
+
 - 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)
 - Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University)
 - November 15, 2024
