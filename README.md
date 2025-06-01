@@ -8,6 +8,16 @@
 
 ---
 
+## Experience
+
+- **Staff**, ARSHEXA Co., Ltd.  
+  *March 2023 – February 2024*  
+  - Maintained and updated internal and external web pages using content management systems  
+  - Assisted with administrative tasks such as document organization, data entry, and internal communication  
+  - Supported day-to-day office operations in collaboration with the development and planning teams
+
+---
+
 ## Tech Stack
 
 ### Programming Languages  
@@ -53,7 +63,7 @@ Web application
 
 ## Awards
 
-**Excellent Paper Award**, 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)  
+- **Excellent Paper Award**, 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)  
   → [View related publication](#development-of-a-public-infrastructure-spatial-information-platform-based-on-big-data)
 
 ---
