@@ -4,7 +4,7 @@
 - **Major:** B.S. in Software Engineering, Double Major in Data Science
 - **University:** Kangnam University, Republic of Korea
 - **Year:** Class of 2026 (3rd Year)
-- **Interest:** Space Security, Web Development, Cybersecurity, Data Analysis
+- **Interest:** Space Security, Cyber Security, Network Security, System Security
 
 ---
 
