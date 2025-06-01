@@ -1,19 +1,21 @@
 ## Profile
 
-**Name:** Yujin Kim  
-**Major:** B.S. in Software Engineering, Double Major in Data Science  
-**University:** Kangnam University, Republic of Korea  
-**Year:** Class of 2026 (3rd Year)  
-**Interest:** Space Security, Web Development, Cybersecurity, Data Analysis  
+- **Name:** Yujin Kim  
+- **Major:** B.S. in Software Engineering, Double Major in Data Science  
+- **University:** Kangnam University, Republic of Korea  
+- **Year:** Class of 2026 (3rd Year)  
+- **Interest:** Space Security, Web Development, Cybersecurity, Data Analysis  
+
 
 ---
 
+
 ## Tech Stack
 
-- Programming Languages: Python, C, C++, Java
-- Data Analysis: pandas, NumPy, matplotlib, R  
-- Security Tools: Wireshark
-- Development Tools: Git, GitHub, Notion  
+- **Programming Languages**: Python, C, C++, Java
+- **Data Analysis**: pandas, NumPy, matplotlib, R  
+- **Security Tools**: Wireshark
+- **Development Tools**: Git, GitHub, Notion  
 
 ---
 
@@ -23,7 +25,9 @@
 Web application  
 [GitHub Repository](To be revealed)
 
+
 ---
+
 
 ## Awards
 
@@ -33,7 +37,9 @@ Web application
 - *Award: Excellent Paper Award*
 - *Date: November 15, 2024*
 
+
 ---
+
 
 ## Contact
 
