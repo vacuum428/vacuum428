@@ -28,16 +28,20 @@ Web application
 ## Awards
 
 **Excellent Paper Award**, 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)  
-  → [View related publication](#2024-fall-conference,-the-society-of-convergence-Knowledge (융복합지식학회))
+  → [View related publication](#development-of-a-public-infrastructure-spatial-information-platform-based-on-big-data)
 
 ---
 
 ## Publications
+<a name="development-of-a-public-infrastructure-spatial-information-platform-based-on-big-data"></a>
+- **2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)**<br>
+  *Paper Title: Development of a Public Infrastructure Spatial Information Platform based on Big data*<br>
+  *Authors: Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University), Joo Kil Hong(Gyeongin National University of Education)*<br>
+  *Date: November 15, 2024*
 
-- **2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)**
-  *Paper Title: Development of a Public Infrastructure Spatial Information Platform based on Big data*
-  *Authors: Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University), Joo Kil Hong(Gyeongin National University of Education)*
-  *Award: Excellent Paper Award*
+- **2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)**<br>
+  *Paper Title:  Beacon-Based System Design for Enhancing Visitor Experience in Indoor Exhibitions*<br>
+  *Authors: Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University)*<br>
   *Date: November 15, 2024*
   
 ---
