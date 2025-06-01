@@ -10,8 +10,7 @@
 
 ## Experience
 
-- **Staff**, ARSHEXA Co., Ltd.  
-  *March 2023 – February 2024*  
+- **Staff**, ARSHEXA Co., Ltd. (*March 2023 – February 2024*)
   - Maintained and updated internal and external web pages using content management systems  
   - Assisted with administrative tasks such as document organization, data entry, and internal communication  
   - Supported day-to-day office operations in collaboration with the development and planning teams
