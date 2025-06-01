@@ -74,7 +74,7 @@ Web application
 
 ## Contact
 
-- Email(Personal): yjkim031026@gmail.com
-- Email(University): cpyj126@kangnam.ac.kr
-- LinkedIn: www.linkedin.com/in/yujin-kim-ksk890428
+[![Email (Personal)](yjkim031026@gmail.com)  
+[![Email (University)](cpyj126@kangnam.ac.kr)  
+[![LinkedIn](www.linkedin.com/in/yujin-kim-ksk890428)]
 
