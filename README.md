@@ -28,10 +28,10 @@ Web application
 ## Awards
 
 ### Conference: 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)
-*Paper Title: Development of a Public Infrastructure Spatial Information Platform based on Big data*
-*Authors: Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University), Joo Kil Hong(Gyeongin National University of Education)*
-*Award: Excellent Paper Award*
-*Date: November 15, 2024*
+- *Paper Title: Development of a Public Infrastructure Spatial Information Platform based on Big data*
+- *Authors: Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University), Joo Kil Hong(Gyeongin National University of Education)*
+- *Award: Excellent Paper Award*
+- *Date: November 15, 2024*
 
 ---
 
