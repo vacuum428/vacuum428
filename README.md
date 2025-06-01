@@ -25,13 +25,13 @@ Web application
 
 ---
 
-Awards & Activities
+## Awards
 
-- **Cybersecurity Study Club "KIS"** – Core Member, 2025  
-- **Interdisciplinary Dev Team "AUNAE"** – Team Collaboration Project, 2025  
-- **National Cyber Defense Competition** – Finalist, 2024  
-- **University Security Idea Contest** – 3rd Prize, 2023  
-- **AI for Space Hackathon** – Participation & Demo Showcase, 2024
+### Conference: 2024 Fall Conference, The Society of Convergence Knowledge (융복합지식학회)
+*Paper Title: Development of a Public Infrastructure Spatial Information Platform based on Big data*
+*Authors: Seo Ji Hoon, Kim Yu Jin, Won Seo Yeon(Kangnam University), Joo Kil Hong(Gyeongin National University of Education)*
+*Award: Excellent Paper Award*
+*Date: November 15, 2024*
 
 ---
 
